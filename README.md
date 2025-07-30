@@ -20,14 +20,6 @@ I'm a self-taught developer from Iran, with a strong interest in solving problem
 
 ---
 
-### 💻 Tech Stack & Tools
-
-<a>
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,php,python,mysql,git,vscode,docker" />
-</a>
-
----
-
 ### 📊 My GitHub Stats
 
 <p align="center">
@@ -41,32 +33,10 @@ I'm a self-taught developer from Iran, with a strong interest in solving problem
 
 ---
 
-### 📌 Pinned Project
-
-<table align="center">
-  <tr>
-    <td valign="top" width="100%">
-      <h3><a href="https://github.com/iaMaST3R/TG_File2Link">TG_File2Link Bot</a></h3>
-      <p>A powerful Telegram bot designed to take any file sent to it and generate a permanent, direct download link. Useful for file sharing and storage.</p>
-      <p><strong>Technologies:</strong> Python, Telegram Bot API</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📫 How to Reach Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+  <a href="https://t.me/iaMaSTeRDev">
     <img src="https://skillicons.dev/icons?i=telegram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
