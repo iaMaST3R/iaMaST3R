@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9hDxicMX1sbt/giphy.gif" width="100"/>
   <h1>
-    Hi there, I'm iaMaST3R
+    Hi there, I'm MaSTeR
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   </h1>
-  <h3>A passionate Developer focused on Python, PHP, and Web Technologies.</h3>
+  <h3>A JavaScript Developer exploring Web Technologies and expanding into Python.</h3>
 </div>
 
 ---
@@ -24,10 +24,10 @@ I'm a self-taught developer from Iran, with a strong interest in solving problem
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iaMaST3R&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iaMaST3R&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaMaST3R&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaMaST3R&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
