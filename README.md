@@ -13,8 +13,8 @@
 
 I'm a self-taught developer from Iran, with a strong interest in solving problems through code. My main focus is on creating efficient backend systems, web applications, and useful bots. I enjoy automating tasks and building tools that make life easier.
 
-- 🐍 Skilled in both **Python** and **PHP** for server-side logic.
-- 🌐 Proficient in **JavaScript**, **HTML**, and **CSS** for front-end development.
+- 💻 JavaScript Developer with a passion for HTML & PHP, currently learning Python.
+- 🌐 Proficient in front-end and back-end concepts.
 - 🤖 Experienced in creating bots and API integrations.
 - 🚀 Always learning and looking to collaborate on innovative open-source projects.
 
@@ -37,6 +37,6 @@ I'm a self-taught developer from Iran, with a strong interest in solving problem
 
 <p align="center">
   <a href="https://t.me/iaMaSTeRDev">
-    <img src="https://skillicons.dev/icons?i=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
