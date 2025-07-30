@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <h1>
-Hi there, I'm iaMaST3R
+Hi there, I'm MaSTeR
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
 <h3>A JavaScript Developer exploring Web Technologies and expanding into Python.</h3>
