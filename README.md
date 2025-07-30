@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9hDxicMX1sbt/giphy.gif" width="100"/>
   <h1>
-    Hi there, I'm MaSTeR
+    Hi there, I'm iaMaST3R
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   </h1>
   <h3>A JavaScript Developer exploring Web Technologies and expanding into Python.</h3>
