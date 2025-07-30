@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hDxicMX1sbt/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  
   <h1>
     Hi there, I'm iaMaST3R
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
@@ -11,12 +12,15 @@
 
 ### 👨‍💻 About Me
 
-I'm a self-taught developer from Iran, with a strong interest in solving problems through code. My main focus is on creating efficient backend systems, web applications, and useful bots. I enjoy automating tasks and building tools that make life easier.
+> I'm a self-taught developer from Iran with a passion for solving problems through code. I enjoy building efficient systems and tools that automate and simplify tasks.
 
-- 💻 JavaScript Developer with a passion for HTML & PHP, currently learning Python.
-- 🌐 Proficient in front-end and back-end concepts.
-- 🤖 Experienced in creating bots and API integrations.
-- 🚀 Always learning and looking to collaborate on innovative open-source projects.
+**My main interests are:**
+
+* **`Frontend`**: Building user interfaces with `JavaScript`, `HTML`, and `CSS`.
+* **`Backend`**: Exploring server-side logic with `PHP` and currently learning `Python`.
+* **`Automation`**: Creating bots and integrating APIs to build useful workflows.
+
+I'm always eager to learn and collaborate on innovative projects! 🚀
 
 ---
 
