@@ -24,17 +24,15 @@ I'm always eager to learn and collaborate on innovative projects! ✨
 🛠️ Languages and Tools
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,html,css,php,python,git,vscode,bots,api&perline=5" />
+<img src="https://skillicons.dev/icons?i=js,html,css,php,python,api&perline=6" />
 </a>
 </p>
 
 📊 My GitHub Stats
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iaMaST3R&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="iaMaST3R's Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaMaST3R&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="iaMaST3R's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=iaMaST3R&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="iaMaST3R's Stats" />&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaMaST3R&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="iaMaST3R's Top Languages" />
 </a>
 </p>
 
