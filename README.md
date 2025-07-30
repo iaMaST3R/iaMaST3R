@@ -4,18 +4,18 @@
     Hi there, I'm iaMaST3R
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   </h1>
-  <h3>A Python Developer with a passion for automation and building intelligent bots.</h3>
+  <h3>A passionate Developer focused on Python, PHP, and Web Technologies.</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a self-taught developer from Iran, deeply passionate about Python and its endless possibilities. My main focus is on creating efficient and useful bots for various platforms, primarily Telegram, Bale, and Rubika. I enjoy solving problems, automating repetitive tasks, and exploring new challenges in the world of software development.
+I'm a self-taught developer from Iran, with a strong interest in solving problems through code. My main focus is on creating efficient backend systems, web applications, and useful bots. I enjoy automating tasks and building tools that make life easier.
 
-- 🐍 Fluent in **Python** for backend development and scripting.
-- 🤖 Specialized in creating bots and automating workflows.
-- 🌐 Interested in web technologies and tackling UI/UX challenges.
+- 🐍 Skilled in both **Python** and **PHP** for server-side logic.
+- 🌐 Proficient in **JavaScript**, **HTML**, and **CSS** for front-end development.
+- 🤖 Experienced in creating bots and API integrations.
 - 🚀 Always learning and looking to collaborate on innovative open-source projects.
 
 ---
@@ -23,7 +23,7 @@ I'm a self-taught developer from Iran, deeply passionate about Python and its en
 ### 💻 Tech Stack & Tools
 
 <a>
-  <img src="https://skillicons.dev/icons?i=python,javascript,django,flask,git,vscode,docker,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,php,python,mysql,git,vscode,docker" />
 </a>
 
 ---
@@ -41,19 +41,14 @@ I'm a self-taught developer from Iran, deeply passionate about Python and its en
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Pinned Project
 
 <table align="center">
   <tr>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/iaMaST3R/Bale-BOT">Bale Bot Framework</a></h3>
-      <p>A simple and efficient framework for developing bots on the Bale Messenger platform.</p>
-      <p><strong>Technologies:</strong> Python, API Integration</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/iaMaST3R/rubika-bot-web">Rubika Bot Web</a></h3>
-      <p>A web-based interface for interacting with Rubika bots, demonstrating web integration capabilities.</p>
-      <p><strong>Technologies:</strong> Python, Web Framework (e.g., Flask/Django)</p>
+    <td valign="top" width="100%">
+      <h3><a href="https://github.com/iaMaST3R/TG_File2Link">TG_File2Link Bot</a></h3>
+      <p>A powerful Telegram bot designed to take any file sent to it and generate a permanent, direct download link. Useful for file sharing and storage.</p>
+      <p><strong>Technologies:</strong> Python, Telegram Bot API</p>
     </td>
   </tr>
 </table>
